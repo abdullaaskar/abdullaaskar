@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdulla Askar
-- 👀 I’m interested in Game Development and Java Software Engineer
+- 👀 I’m interested in Game Development and Java Software Development
 - 🌱 I’m currently learning Software Development bootcamp and unity2d
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me abu98049@gmail.com
